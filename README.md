@@ -30,7 +30,6 @@ Complete the following [PracticeIt!](http://practiceit.cs.washington.edu/practic
 * Self-Check 3.9: parameterMysterySoda
 * Self-Check 3.16: min
 * Self-Check 3.19: stringExpressions
-
 * Exercise 3.1: printNumbers  
 * Exercise 3.6: largerAbsVal
 * Exercise 3.8: quadratic
